@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="122" height="130" viewBox="0 0 122 130">
+  <g id="グループ_3" data-name="グループ 3" transform="translate(-259 -2655)">
+    <g id="楕円形_6" data-name="楕円形 6" transform="translate(312 2685.5)" fill="#fff" stroke="#707070" stroke-width="1">
+      <circle cx="8" cy="8" r="8" stroke="none"/>
+      <circle cx="8" cy="8" r="7.5" fill="none"/>
+    </g>
+    <g id="画架のアイコン2" transform="translate(209.543 2655)">
+      <path id="パス_46" data-name="パス 46" d="M171.457,84h-19l-1-3-3-66h-31V0h-14V15h-31l-4,69h-19V95h23l-13,35h14l13-35h17v27h14V95h17l13,35h14l-13-35h23Zm-93-6,3-55h58l3,55Z" fill="#5c5c5c"/>
+    </g>
+    <g id="長方形_63" data-name="長方形 63" transform="translate(313.172 2700.757) rotate(45)" fill="#fff" stroke="#707070" stroke-width="1">
+      <rect width="10" height="2" stroke="none"/>
+      <rect x="0.5" y="0.5" width="9" height="1" fill="none"/>
+    </g>
+    <g id="長方形_64" data-name="長方形 64" transform="translate(328.243 2702.172) rotate(135)" fill="#fff" stroke="#707070" stroke-width="1">
+      <rect width="10" height="2" stroke="none"/>
+      <rect x="0.5" y="0.5" width="9" height="1" fill="none"/>
+    </g>
+    <g id="長方形_65" data-name="長方形 65" transform="translate(320.632 2714.17) rotate(120)" fill="#fff" stroke="#707070" stroke-width="1">
+      <rect width="10" height="2" stroke="none"/>
+      <rect x="0.5" y="0.5" width="9" height="1" fill="none"/>
+    </g>
+    <g id="長方形_62" data-name="長方形 62" transform="translate(319 2701)" fill="#fff" stroke="#707070" stroke-width="1">
+      <rect width="2" height="14" stroke="none"/>
+      <rect x="0.5" y="0.5" width="1" height="13" fill="none"/>
+    </g>
+  </g>
+</svg>
